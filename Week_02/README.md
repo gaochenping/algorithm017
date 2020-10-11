@@ -24,5 +24,5 @@
 
 按照目前的学习节奏，进度有点赶不上，前面的没消化，后面的新内容又堆上来，有点拖沓，接下来打算每天在学新的基础上，再补一课前面的内容。类似如下安排：
 
-<img src="https://gitee.com/chenpingcloud/pic-repository/raw/master/pics/image-20201011155947117.png" alt="image-20201011155947117" style="zoom:50%;" />
+<img src="https://gitee.com/chenpingcloud/pic-repository/raw/master/pics/image-20201011155947117.png" style="zoom:50%;" />
 
